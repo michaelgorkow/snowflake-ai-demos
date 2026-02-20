@@ -1,13 +1,13 @@
 # Snowflake AI Demos
 
-A collection of end-to-end machine learning demonstrations showcasing Snowflake's native AI/ML capabilities.
+A collection of AI and ML demonstrations showcasing Snowflake's native AI/ML capabilities.
 
 ## Prerequisites
 
 Before running any demo, set up your environment using the provided setup script:
 
 ```
--- Run as ACCOUNTADMIN
+Run as ACCOUNTADMIN:
 environment-setup.sql
 ```
 
@@ -23,6 +23,7 @@ This creates:
 | Demo | Description | Key Features |
 |------|-------------|--------------|
 | [Predictive Maintenance MLOps](./predictive-maintenance-mlops-demo/) | End-to-end MLOps workflow for IoT equipment failure prediction | Feature Store, Model Registry, Experiment Tracking, Model Monitoring, SPCS Deployment |
+| [Master Data Mapping](./master-data-mapping-demo/) | Master data mapping demonstration | Master Data Management, Data Mapping |
 
 ## Getting Started
 
