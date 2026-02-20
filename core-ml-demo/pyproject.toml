@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "demo_functions"
+version = "1"
+description = "Custom functions for demo."
+dependencies = [
+    "pandas",
+    "numpy",
+    "snowflake-snowpark-python>=1.39.1",
+    "plotly"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
