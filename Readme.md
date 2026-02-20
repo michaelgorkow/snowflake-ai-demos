@@ -23,7 +23,7 @@ This creates:
 | Demo | Description | Key Features |
 |------|-------------|--------------|
 | [Predictive Maintenance MLOps](./predictive-maintenance-mlops-demo/) | End-to-end MLOps workflow for IoT equipment failure prediction | Feature Store, Model Registry, Experiment Tracking, Model Monitoring, SPCS Deployment |
-| [Master Data Mapping](./master-data-mapping-demo/) | Master data mapping demonstration | Master Data Management, Data Mapping |
+| [Master Data Mapping](./master-data-mapping-demo/) | AI-powered master data mapping using semantic search to match and harmonize records across disparate data sources | Cortex Search, Semantic Matching, Data Harmonization, Master Data Management |
 
 ## Getting Started
 
